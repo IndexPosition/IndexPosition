@@ -19,7 +19,7 @@ I'm an alien from the planet Earth who loves to code and run them.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IndexPosition&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Blue-tiful quote for you
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dracula&quote=You%20are%20blue-tiful%20and%20always%20code%20blue-tifully!!&author=IndexPosition)
 
 ### 🔝 Top Contributed Repo
