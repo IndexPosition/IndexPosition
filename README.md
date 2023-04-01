@@ -1,4 +1,4 @@
-# Hi there, I'm [IndexPosition](/IndexPosition/)! 👾
+# Meow, I am [IndexPosition](/IndexPosition/)! 👾
 
 # 💫 About Me:
 - My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood` or IDK just every random thing you want to think of.
