@@ -21,8 +21,5 @@
 ### ✍️ Blue-tiful quote for you
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dracula&quote=You%20are%20blue-tiful%20and%20always%20code%20blue-tifully!!&author=IndexPosition)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IndexPosition&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=IndexPosition&icon=1&color=1)](https://visitcount.itsvg.in)
