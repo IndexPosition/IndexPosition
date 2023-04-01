@@ -1,8 +1,8 @@
 # Hi there, I'm [IndexPosition](/IndexPosition/)! 👾
 
 # 💫 About Me:
-- My name is Abhijith Prakash, aka IndexPosition or BlueHostile or Carrot_isGood or IDK just every random thing you want to think of.
-- I'm an alien from the planet Earth who loves to code and run them. 
+- My name is **Abhijith Prakash**, aka IndexPosition or BlueHostile or Carrot_isGood or IDK just every random thing you want to think of.
+> I'm an alien from the planet Earth who loves to code and run them. 
 
 
 ## 🌐 Socials:
