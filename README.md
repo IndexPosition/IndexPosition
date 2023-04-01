@@ -1,7 +1,7 @@
 # Hi there, I'm [IndexPosition](/IndexPosition/)! 👾
 
 # 💫 About Me:
-- My name is - ![#4169e1]`**Abhijith Prakash**`, aka ![#4169e1]`IndexPosition` or ![#4169e1]`BlueHostile` or ![#4169e1]`Carrot_isGood` or IDK just every random thing you want to think of.
+- My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood` or IDK just every random thing you want to think of.
 > I'm an alien from the planet Earth who loves to code and run them. 
 
 
