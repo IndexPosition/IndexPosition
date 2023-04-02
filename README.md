@@ -1,6 +1,4 @@
-# Meow, I am [IndexPosition](https://www.github.com/IndexPosition)! 👾
-
-![IndexPosition_Blue](https://user-images.githubusercontent.com/99633082/229336947-bc3b2074-57b2-4b55-bcda-7b38f9421edf.gif)
+[![IndexPosition_Blue](https://user-images.githubusercontent.com/99633082/229336947-bc3b2074-57b2-4b55-bcda-7b38f9421edf.gif)](https://www.github.com/IndexPosition)
 
 # 👀 About Me:
 - My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood`.
