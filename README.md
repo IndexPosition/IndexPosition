@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bluehostile" target="blank"><img src="https://img.shields.io/twitter/follow/bluehostile?logo=twitter&style=for-the-badge" alt="bluehostile" /></a> </p>
 
-## Connect with me:
+## Link up with the alien:
 <p align="left">
 <a href="https://twitter.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="bluehostile" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/abhijith-prakash-66b20825a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="abhijith-prakash-66b20825a" height="30" width="30" /></a>
@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/carrot_isgood" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="carrot_isgood" height="30" width="30" /></a>
 </p>
 
-## 🧠 Tech Stack:
+## 🧠 Code Arsenal:
 
 ### LANGUAGES
 
@@ -47,7 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=IndexPosition&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### 📘 Blue-tiful quote for you
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dracula&quote=You%20are%20blue-tiful%20and%20always%20code%20blue-tifully!!&author=IndexPosition)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=You%20are%20blue-tiful%20and%20always%20code%20blue-tifully!!&author=IndexPosition)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/IndexPosition)
