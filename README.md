@@ -1,7 +1,7 @@
 # Meow, I am [IndexPosition](/IndexPosition/)! 👾
 
 # 👀 About Me:
-- My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood` or IDK just every random thing you want to think of.
+- My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood` or IDK there are many random name.
 > I'm an alien from the planet Earth who loves to code and run them. 
 
 
