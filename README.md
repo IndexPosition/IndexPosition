@@ -6,13 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/bluehostile" target="blank"><img src="https://img.shields.io/twitter/follow/bluehostile?logo=twitter&style=for-the-badge" alt="bluehostile" /></a> </p>
 
-## Contact Me:
-<p align="left">
-<a href="https://twitter.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="bluehostile" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/abhijith-prakash-66b20825a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="abhijith-prakash-66b20825a" height="30" width="30" /></a>
-<a href="https://instagram.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="bluehostile" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/carrot_isgood" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="carrot_isgood" height="30" width="30" /></a>
-</p>
+## Contact With Me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IndexPosition)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhijith-prakash-66b20825a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/BlueHostile/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bluehostile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Carrot_isGood)  
 
 ## 🧠 Tech Stack:
 
