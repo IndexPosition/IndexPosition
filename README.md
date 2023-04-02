@@ -1,6 +1,7 @@
-# Meow, I am [IndexPosition](/IndexPosition/)! 👾
+# Meow, I am [IndexPosition](/#)! 👾
 
-![Uploading IndexPosition.gif…](/IndexPosition/)
+![IndexPosition](https://user-images.githubusercontent.com/99633082/229334965-4386f607-9b28-4d08-8235-df42a10c9e40.gif)
+
 
 
 # 👀 About Me:
