@@ -1,4 +1,4 @@
-# Meow, I am [IndexPosition](https://www.https://github.com/IndexPosition/)! 👾
+# Meow, I am [IndexPosition](github.com/IndexPosition)! 👾
 
 ![IndexPosition](https://user-images.githubusercontent.com/99633082/229335380-603437c0-13e5-4a99-9980-10bb23b62748.gif)
 
