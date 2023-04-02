@@ -10,10 +10,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="bluehostile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhijith-prakash-66b20825a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="abhijith-prakash-66b20825a" height="30" width="40" /></a>
-<a href="https://instagram.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="bluehostile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/carrot_isgood" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="carrot_isgood" height="30" width="40" /></a>
+<a href="https://twitter.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="bluehostile" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/abhijith-prakash-66b20825a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="abhijith-prakash-66b20825a" height="30" width="30" /></a>
+<a href="https://instagram.com/bluehostile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="bluehostile" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/carrot_isgood" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="carrot_isgood" height="30" width="30" /></a>
 </p>
 
 ## 🧠 Tech Stack:
@@ -52,4 +52,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dracula&quote=You%20are%20blue-tiful%20and%20always%20code%20blue-tifully!!&author=IndexPosition)
 
 ---
-[![](ttps://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/IndexPosition))
+[![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/IndexPosition)
