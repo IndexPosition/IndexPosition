@@ -40,7 +40,7 @@
             <a href="https://www.latex-project.org/"><img
                     src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white"
                     alt="LaTeX" /></a>
-            <a href="https:www.//python.org"><img
+            <a href="https://www.python.org"><img
                     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
                     alt="Python" /></a>
             <a href="https://www.ruby-lang.org/en/"><img
