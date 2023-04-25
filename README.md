@@ -1,4 +1,4 @@
-[![IndexPosition](https://user-images.githubusercontent.com/99633082/229373878-ff63790b-17a0-4efd-a3b3-4cc91460b856.gif)](https://www.github.com/IndexPosition)
+[![IndexPosition](https://user-images.githubusercontent.com/99633082/234297365-71ac1465-4988-423c-b980-25cbae2fb2e3.gif)](https://www.github.com/IndexPosition)
 
 # 👀 About Me:
 - My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood`.
