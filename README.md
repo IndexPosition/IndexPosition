@@ -2,7 +2,7 @@
 
 # 👀 About Me:
 - My name is **`Abhijith Prakash`**, aka `IndexPosition` or `BlueHostile` or `Carrot_isGood`.
-> I'm an alien from the planet Earth who loves to code and run them. 
+> I'm an alien from the planet Earth. 
 
 ## Contact With Me:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndexPosition)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijithprakash2003/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/BlueHostile/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bluehostile)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Carrot_isGood)  
