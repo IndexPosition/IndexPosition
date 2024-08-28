@@ -109,8 +109,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IndexPosition&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### 📘 Blue-tiful quote for you
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=You%20are%20blue-tiful%20and%20always%20code%20blue-tifully!!&author=IndexPosition)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/IndexPosition)
