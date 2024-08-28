@@ -106,8 +106,5 @@
 
 ![IndexPosition's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndexPosition&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IndexPosition&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/IndexPosition)
